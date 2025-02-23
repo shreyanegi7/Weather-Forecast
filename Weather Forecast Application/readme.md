@@ -11,4 +11,4 @@
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/weather-app.git
+   https://github.com/shreyanegi7/Weather-Forecast
